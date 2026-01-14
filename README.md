@@ -6,7 +6,7 @@ Este proyecto utiliza Streamlit, Plotly y pandas para explorar y comparar estad√
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/basket_dashboard.git
+   git clone https://github.com/branbrin/basket_dashboard.git
    ```
 
 2. Crea un entorno virtual e instala las dependencias:
